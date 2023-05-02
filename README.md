@@ -1,2 +1,2 @@
 # python_finder
-it is tool designed to catch all sensitive data from response 
+It Is a tool designed to catch all sensitive data from response 

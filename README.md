@@ -8,4 +8,4 @@ It Is a tool designed to catch all sensitive data from response
 
 2- follow the pictures
 
-![](burp1.png)
+![](burp1.jpg)

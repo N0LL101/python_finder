@@ -15,3 +15,8 @@ It Is a tool designed to catch all sensitive data from response
 3- git clone https://github.com/N0LL101/python_finder.git
 ```
 ![](burp2.jpg)
+
+
+## Demo
+
+![](poc.jpg)
